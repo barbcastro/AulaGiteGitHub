@@ -1,2 +1,2 @@
-# Aula GITeGitHub
-Criação derepositório e Branchs durante a aula
+# Aula GiteGitHub
+Criação de repositório e Branchs durante a aula
